@@ -32,11 +32,16 @@ Niño de 7 años.
 
 . . .
 
-Pues eso pasa por correr.
+Pues eso pasa por correr :running: :running: :running:
 
-Desarrollado aquí :point_right: [https://twitter.com/pbeltranp/status/1180914145509679104](https://twitter.com/pbeltranp/status/1180914145509679104)
+. . .
+
+Desarrollado aquí :point_down:
+
+[https://twitter.com/pbeltranp/status/1180914145509679104](https://twitter.com/pbeltranp/status/1180914145509679104)
 
 ## Un problema
+
 
 
 ## Una operación
