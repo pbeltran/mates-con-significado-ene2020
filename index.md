@@ -19,7 +19,7 @@ widescreen: true
 [https://pbeltran.github.io/mates-con-significado-ene2020](http://pbeltran.github.io/mates-con-significado-ene2020)
 
 
-# Pongamos las cartas sobre la mesa
+# Pongamos las cartas sobre la mesa {data-background-image="assets/art/belinda-fewings-unsplash.jpg" data-background-opacity="0.25"}
 
 ## Un problema
 
