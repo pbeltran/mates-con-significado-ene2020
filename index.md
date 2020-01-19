@@ -16,7 +16,7 @@ widescreen: true
 
 ![](assets/qr.png){width=50%}
 
-[https://pbeltran.github.io/unaempresadocente-videos](https://pbeltran.github.io/unaempresadocente-videos)
+[https://pbeltran.github.io/mates-con-significado-ene2020](http://pbeltran.github.io/mates-con-significado-ene2020)
 
 
 # Pongamos las cartas sobre la mesa
