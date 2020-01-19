@@ -38,8 +38,23 @@ widescreen: true
 
 ## Sistema de numeración decimal posicional
 
-imagen de lo que hice en eso
+¿Sabemos contar?
 
+![](assets/images/puntitos.jpg){ width=80% }
+
+Para saber más de esta actividad: [https://twitter.com/pbeltranp/status/1193117005500555264](https://twitter.com/pbeltranp/status/1193117005500555264)
+
+## Ideas fundamentales de nuestro SND
+
+- Se utilizan diez símbolos (cifras).
+- Se realizan agrupamientos sucesivos de 10 en 10.
+- La posición que ocupa cada cifra tiene un significado preciso.
+
+. . .
+
+¿Qué cifra vale _más_?
+
+$121$
 
 
 ## Unas preguntas sobre el cero... 
@@ -49,7 +64,6 @@ imagen de lo que hice en eso
 > ¿Un alumno puede contar objetos de 10 en 10 sin conocer el cero?
 
 . . .
-
 
 :::::::::::::: {.columns}
 
@@ -125,15 +139,15 @@ Veintiocho
 :::
 :::::::::::::
 
-##
+## ¿Cómo podemos trabajar estas situaciones?
+
+Diversos materiales:
 
 - Policubos.
 
 - Ábaco horizontal.
 
 - Plaquetas de Herbinière-Lebert.
-
-
 
 ## El ábaco horizontal
 
@@ -166,10 +180,18 @@ El ábaco horizontal cuando se emplea de manera aditiva es un material didáctic
 trabajar las situaciones de cardinalidad con recuento, y 
 articular las situaciones de agrupamiento decimal con las de escritura de números de 2 cifras.
 
-:smile:
+## Plaquetas de Herbinière-Lebert
+
+![](assets/images/herbiniere.png){ width=35% }
+
+Numicon (no deja de ser una _versión comercial_ de las plaquetas) :point_down:
+
+![](assets/images/numicon.jpg){ width=35% }
 
 
-# Enseñanza de las operaciones de suma y resta
+
+
+# Enseñanza de las operaciones de suma y resta {data-background-image="assets/art/kidwriting.jpg" data-background-opacity="0.18"}
 
 
 ## Doble vía
@@ -220,11 +242,22 @@ Memorización de tablas y otros hechos aritméticos, adquirir técnicas de cálc
 
 
 
-# Dominio afectivo {data-background-image="assets/art/class.jpg" data-background-opacity="0.18"}
+# Temas que nos dejamos en el tintero {data-background-image="assets/art/class.jpg" data-background-opacity="0.18"}
+
+## Las matemáticas en primaria no son solo aritmética
+
+- La medida. 
+- La geometría.
+- Probabilidad y estadística.
+
+## Los manipulables pueden usarse bien, mal o regular
+
+
+
 
 ## Visión de las matemáticas {data-background-image="assets/art/clase.jpg" data-background-opacity="0.1"}
 
-- El proceso de enseñanza y aprendizaje es una negociación de significados. 
+- El proceso de enseñanza y aprendizaje puede verse como una negociación de significados. 
 	- Significado personal.
 	- Significado de referencia, institucional. 
 
@@ -255,20 +288,6 @@ Para indagar un poquito sobre esto: [Gaulin \(2001\)](http://www.hezkuntza.ejgv.
 - La RP a menudo toma la forma de problemas de aplicación al final de cada lección, presumiblemente para promover la capacidad de **aplicar** lo aprendido. Así rara vez se cumple el propósito de enseñar a resolver problemas o desarrollar o profundizar el conocimiento de ese contenido (Anderson, 2014). 
 :::
 
-## A través de la resolución de problemas {data-background-image="assets/art/clase.jpg" data-background-opacity="0.1"}
-
-:::incremental
-- Pero la atención (limitada) de la investigación sobre cómo se puede lograr el desarrollo de los conceptos a través de la RP indica que a la RP no se le ha dado un papel central en el plan de estudios, sino que se ha llevado a la periferia (Rigelman, 2013). 
-- Se necesitan más estudios que exploren si ambas metas pueden lograrse a la vez, examinando el impacto del desarrollo conceptual impulsado por problemas en el desarrollo de competencias para la resolución de problemas (Lester y Charles, 2003; Schoen y Charles, 2003). 
-:::
-
-## {data-background-image="assets/art/clase.jpg" data-background-opacity="0.1"}
-
->Si bien los estudios más recientes favorecen la RP como un medio para desarrollar la comprensión del contenido matemático en lugar de un fin en sí mismo, el debate está lejos de resolverse.
-
-
-English, L. D., & Gainsburg, J. (2016). Problem Solving in a 21st-Century Mathematics Curriculum. En L. D. English, & D. Kirshner (Eds.), _Handbook of International Research in Mathematics Education_, pp. 313-335. Routledge.
-
 
 
 
@@ -276,11 +295,13 @@ English, L. D., & Gainsburg, J. (2016). Problem Solving in a 21st-Century Mathem
 
 ## Referencias
 
-Proyecto Edumat-Maestros. _Matemáticas y su Didáctica para Maestros._  Dirección y edición: Juan D. Godino. [Enlace](https://www.ugr.es/~jgodino/edumat-maestros/)
+Básicamente, lo que vienen a contar estas diapositivas es la propuesta que se trabaja en las asignaturas de Didáctica de la Matemática en la Facultad de Educación de la Universidad de Zaragoza. 
 
-Área de Didáctica de la Matemática, Universidad de Zaragoza. Apuntes de _Didáctica de la Aritmética I_, _Didáctica de la Aritmética II_ y _Didáctica de la Geometría_.  
+- Área de Didáctica de la Matemática, Universidad de Zaragoza. Apuntes de _Didáctica de la Aritmética I_, _Didáctica de la Aritmética II_ y _Didáctica de la Geometría_.  
 
-Tesis doctorales
+Merece la pena echar un vistazo a las monografías de la UGR:
+
+- Proyecto Edumat-Maestros. _Matemáticas y su Didáctica para Maestros._  Dirección y edición: Juan D. Godino. [Enlace](https://www.ugr.es/~jgodino/edumat-maestros/)
 
 
 
