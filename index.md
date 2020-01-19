@@ -1,0 +1,308 @@
+---
+title: Matemáticas con significado 
+subtitle: Uso de recursos manipulables en Primaria
+author: <a href="http://tierradenumeros.com">Pablo Beltrán-Pellicer</a>  <br>  <a href="https://twitter.com/pbeltranp">@pbeltranp</a> <br> <img src="assets/logoUZ.jpg" align="center" style="padding-right:0px;" height="40px" >  <img src="assets/attribution-share-alike-creative-commons-license.png" align="center" style="padding-right:0px" height="40px"> <br> 21 de enero de 2020 <br> CPI Parque Venecia, Zaragoza.
+description: Materiales distribuidos bajo licencia CC-BY-SA-4.0 (https://creativecommons.org/licenses/by-sa/4.0/) (https://creativecommons.org/licenses/by-sa/4.0/legalcode.es)
+lang: es-ES
+rollingLinks: true
+aspectratio: 169
+widescreen: true
+---
+
+
+# Acceso a la presentación {data-background-image="assets/art/pc.jpg" data-background-opacity="0.25"}
+
+## {data-background-image="assets/art/pc.jpg" data-background-opacity="0.18"}
+
+![](assets/qr.png){width=50%}
+
+[https://pbeltran.github.io/unaempresadocente-videos](https://pbeltran.github.io/unaempresadocente-videos)
+
+
+# Pongamos las cartas sobre la mesa
+
+## Un problema
+
+
+## Una operación
+
+
+## Otra operación
+
+## Entonces, ¿qué hacemos?
+
+
+
+
+# Lectura y escritura de números de dos cifras {data-background-image="assets/art/abacus.jpg" data-background-opacity="0.18"}
+
+## Sistema de numeración decimal posicional
+
+imagen de lo que hice en eso
+
+
+
+## Unas preguntas sobre el cero... 
+
+:question: :question: :question:
+
+> ¿Un alumno puede contar objetos de 10 en 10 sin conocer el cero?
+
+. . .
+
+
+:::::::::::::: {.columns}
+
+::: {.column width="45%"}
+
+![](assets/images/coliseo.jpg){ width=90% }
+
+:::
+
+::: {.column width="45%"}
+
+![](assets/images/piramides.jpg){ width=90% }
+
+:::
+:::::::::::::
+
+¿Las personas que construyeron esto conocían el cero?
+
+
+## Unas preguntas sobre el cero... 
+
+> ¿Se puede comenzar la lectura y escritura de los números sin haber hablado del cero? 
+
+. . .
+
+Sí. Es más sencillo justificar la escritura del 27 que la del 20. 
+
+## Unas preguntas sobre el cero... 
+
+:question: :question: :question:
+
+> ¿En qué momento se debería introducir la escritura de las decenas completas: diez, veinte, treinta, ...? 
+
+. . .
+
+Cuando el alumnado sepa escribir razonablemente bien números sin ceros, se plantea veinte, treinta, etc. Por último, se plantea la escritura y lectura del 10, el más difícil de entender.
+
+
+## Situaciones de lectura y de escritura
+
+
+:::::::::::::: {.columns}
+
+::: {.column width="45%"}
+
+> Escritura
+
+Veintiocho 
+
+$\downarrow$
+
+Acciones con el material (manipulación)
+
+$\downarrow$
+
+28
+:::
+
+::: {.column width="45%"}
+
+> Lectura
+
+28 
+
+$\downarrow$
+
+Acciones con el material (manipulación)
+
+$\downarrow$
+
+Veintiocho
+
+:::
+:::::::::::::
+
+##
+
+- Policubos.
+
+- Ábaco horizontal.
+
+- Plaquetas de Herbinière-Lebert.
+
+
+
+## El ábaco horizontal
+
+![](assets/images/lord.jpg){ width=65% }
+
+## El ábaco horizontal
+
+:::::::::::::: {.columns}
+
+::: {.column width="45%"}
+
+Ábaco horizontal sin base auxiliar
+
+![](assets/images/abacohnoaux.jpg){ width=90% }
+
+:::
+
+::: {.column width="45%"}
+
+Ábaco horizontal con base auxiliar
+
+![](assets/images/abacohaux.jpg){ width=90% }
+
+:::
+:::::::::::::
+
+## El ábaco horizontal
+
+El ábaco horizontal cuando se emplea de manera aditiva es un material didáctico estructurado muy valioso para: 
+trabajar las situaciones de cardinalidad con recuento, y 
+articular las situaciones de agrupamiento decimal con las de escritura de números de 2 cifras.
+
+:smile:
+
+
+# Enseñanza de las operaciones de suma y resta
+
+
+## Doble vía
+
+:::::::::::::: {.columns}
+
+::: {.column width="45%"}
+
+> Situaciones didácticas aditivo-concretas
+
+$\downarrow$
+
+Resolución de problemas aritméticos.
+
+
+:::
+
+::: {.column width="45%"}
+
+> Situaciones didácticas aditivo-formales 
+
+$\downarrow$
+
+Memorización de tablas y otros hechos aritméticos, adquirir técnicas de cálculo oral y, **después**, escritas.
+
+
+:::
+:::::::::::::
+
+
+
+## Problemática con los algoritmos
+
+- Están basados en reglas que son poco intuitivas para el alumnado, basadas en propiedades del sistema de numeración decimal.
+- Son reglas difíciles de justificar.
+- Necesitan realizar un esfuerzo importante de memorización.
+- Han perdido su utilidad, porque hay otras formas de calcular.
+
+> Repensemos el papel que han de jugar en el aprendizaje
+
+## Problemática con los algoritmos
+
+- Los alumnos deberían comprender y saber justificar las reglas del algoritmo.
+- Así facilitamos la memorización de las reglas y se minimizan los errores. 
+- Es importante que el alumnado sepa utilizar otras técnicas de cálculo:
+	- Cálculo mental.
+	- Calculadora. 
+
+
+
+# Dominio afectivo {data-background-image="assets/art/class.jpg" data-background-opacity="0.18"}
+
+## Visión de las matemáticas {data-background-image="assets/art/clase.jpg" data-background-opacity="0.1"}
+
+- El proceso de enseñanza y aprendizaje es una negociación de significados. 
+	- Significado personal.
+	- Significado de referencia, institucional. 
+
+>¿Qué visión de las matemáticas queremos transmitir?
+
+## Enseñanza de las matemáticas {data-background-image="assets/art/clase.jpg" data-background-opacity="0.1"}
+
+Hay un consenso en que la resolución de problemas debería ser el eje central de la enseñanza y el aprendizaje de las matemáticas. Acerca de ello, hay que considerar tres perspectivas:
+
+::: incremental
+
+- Enseñar **para** resolver problemas. 
+- Enseñar **a través** de la resolución de problemas. 
+- Enseñar **sobre** resolución de problemas. 
+
+:::
+
+. . .
+
+Para indagar un poquito sobre esto: [Gaulin \(2001\)](http://www.hezkuntza.ejgv.euskadi.eus/r43-573/es/contenidos/informacion/dia6_sigma/es_sigma/adjuntos/sigma_19/7_Tendencias_Actuales.pdf)
+
+## A través de la resolución de problemas {data-background-image="assets/art/clase.jpg" data-background-opacity="0.1"}
+
+>¿El objetivo general de usar la RP en el aula de matemáticas debería ser enseñar la RP per se, o enseñar contenido matemático, usando la RP como vehículo? 
+
+:::incremental
+- Autores como Anderson (2014) atribuyen el bajo desempeño en RP de los estudiantes al tratamiento _tradicional_ de la RP en el aula, independiente y aislado del desarrollo de ideas, procesos y conceptos matemáticos básicos. 
+- La RP a menudo toma la forma de problemas de aplicación al final de cada lección, presumiblemente para promover la capacidad de **aplicar** lo aprendido. Así rara vez se cumple el propósito de enseñar a resolver problemas o desarrollar o profundizar el conocimiento de ese contenido (Anderson, 2014). 
+:::
+
+## A través de la resolución de problemas {data-background-image="assets/art/clase.jpg" data-background-opacity="0.1"}
+
+:::incremental
+- Pero la atención (limitada) de la investigación sobre cómo se puede lograr el desarrollo de los conceptos a través de la RP indica que a la RP no se le ha dado un papel central en el plan de estudios, sino que se ha llevado a la periferia (Rigelman, 2013). 
+- Se necesitan más estudios que exploren si ambas metas pueden lograrse a la vez, examinando el impacto del desarrollo conceptual impulsado por problemas en el desarrollo de competencias para la resolución de problemas (Lester y Charles, 2003; Schoen y Charles, 2003). 
+:::
+
+## {data-background-image="assets/art/clase.jpg" data-background-opacity="0.1"}
+
+>Si bien los estudios más recientes favorecen la RP como un medio para desarrollar la comprensión del contenido matemático en lugar de un fin en sí mismo, el debate está lejos de resolverse.
+
+
+English, L. D., & Gainsburg, J. (2016). Problem Solving in a 21st-Century Mathematics Curriculum. En L. D. English, & D. Kirshner (Eds.), _Handbook of International Research in Mathematics Education_, pp. 313-335. Routledge.
+
+
+
+
+# Créditos y referencias {data-background-image="assets/art/credits.jpg" data-background-opacity="0.1"} 
+
+## Referencias
+
+Proyecto Edumat-Maestros. _Matemáticas y su Didáctica para Maestros._  Dirección y edición: Juan D. Godino. [Enlace](https://www.ugr.es/~jgodino/edumat-maestros/)
+
+Área de Didáctica de la Matemática, Universidad de Zaragoza. Apuntes de _Didáctica de la Aritmética I_, _Didáctica de la Aritmética II_ y _Didáctica de la Geometría_.  
+
+Tesis doctorales.
+
+
+
+
+## Créditos {data-background-image="assets/art/credits.jpg" data-background-opacity="0.1"}
+
+_Compartir el conocimiento de forma libre es una buena práctica._
+
+En estas diapositivas se han utilizado materiales disponibles en abierto y se han citado las fuentes correspondientes. El contenido de la presentación está publicado con licencia Creative Common [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode.es), lo que quiere decir que puedes compartirla y adaptarla, citándonos (Pablo Beltrán-Pellicer) y poniendo un enlace a [https://pbeltran.github.io/unaempresadocente-videos/](https://pbeltran.github.io/unaempresadocente-videos/).
+
+_Siéntete libre de trabajar con este material y de contactar conmigo para compartir tus reflexiones._
+
+## {data-background-image="assets/art/credits.jpg" data-background-opacity="0.1"}
+
+Presentación realizada con  <a href="https://revealjs.com/#/">Reveal.js</a>, <a href="https://pandoc.org/">Pandoc</a>, <a href="https://www.mathjax.org/">MathJax</a> y <a href="https://www.markdownguide.org/">Markdown</a>. El código fuente está disponible en [https://github.com/pbeltran/unaempresadocente-videos](https://github.com/pbeltran/unaempresadocente-videos)
+
+
+La fuente de las imágenes es propia, salvo las que se ha citado la fuente en su diapositiva y las de dominio público obtenidas en [Unsplash](https://unsplash.com).
+
+
+
+
+
+
+
