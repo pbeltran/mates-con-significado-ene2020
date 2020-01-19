@@ -21,6 +21,21 @@ widescreen: true
 
 # Pongamos las cartas sobre la mesa {data-background-image="assets/art/belinda-fewings-unsplash.jpg" data-background-opacity="0.25"}
 
+## Sobre el algoritmo de la suma y lo que pasa por correr
+
+Niño de 7 años. 
+
+:::incremental
+- ¿900+400?
+- 13 y dos ceros.
+- ¿Ein?
+- ¿Trece mil? 
+:::
+
+Pues eso pasa por correr.
+
+[https://twitter.com/pbeltranp/status/1180914145509679104](https://twitter.com/pbeltranp/status/1180914145509679104)
+
 ## Un problema
 
 
@@ -154,7 +169,7 @@ Plaquetas de Herbinière-Lebert
 
 ## Policubos
 
-
+![](assets/images/policubos.jpg){ width=65% }
 
 
 ## El ábaco horizontal
