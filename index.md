@@ -29,8 +29,8 @@ widescreen: true
 
 ## Otra operación
 
-## Entonces, ¿qué hacemos?
 
+## Entonces, ¿qué hacemos?
 
 
 
@@ -280,7 +280,7 @@ Proyecto Edumat-Maestros. _Matemáticas y su Didáctica para Maestros._  Direcci
 
 Área de Didáctica de la Matemática, Universidad de Zaragoza. Apuntes de _Didáctica de la Aritmética I_, _Didáctica de la Aritmética II_ y _Didáctica de la Geometría_.  
 
-Tesis doctorales.
+Tesis doctorales
 
 
 
@@ -289,14 +289,13 @@ Tesis doctorales.
 
 _Compartir el conocimiento de forma libre es una buena práctica._
 
-En estas diapositivas se han utilizado materiales disponibles en abierto y se han citado las fuentes correspondientes. El contenido de la presentación está publicado con licencia Creative Common [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode.es), lo que quiere decir que puedes compartirla y adaptarla, citándonos (Pablo Beltrán-Pellicer) y poniendo un enlace a [https://pbeltran.github.io/unaempresadocente-videos/](https://pbeltran.github.io/unaempresadocente-videos/).
+En estas diapositivas se han utilizado materiales disponibles en abierto y se han citado las fuentes correspondientes. El contenido de la presentación está publicado con licencia Creative Common [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode.es), lo que quiere decir que puedes compartirla y adaptarla, citando al autor (Pablo Beltrán-Pellicer) y poniendo un enlace a [https://pbeltran.github.io/mates-con-significado-ene2020](http://pbeltran.github.io/mates-con-significado-ene2020)
 
 _Siéntete libre de trabajar con este material y de contactar conmigo para compartir tus reflexiones._
 
 ## {data-background-image="assets/art/credits.jpg" data-background-opacity="0.1"}
 
-Presentación realizada con  <a href="https://revealjs.com/#/">Reveal.js</a>, <a href="https://pandoc.org/">Pandoc</a>, <a href="https://www.mathjax.org/">MathJax</a> y <a href="https://www.markdownguide.org/">Markdown</a>. El código fuente está disponible en [https://github.com/pbeltran/unaempresadocente-videos](https://github.com/pbeltran/unaempresadocente-videos)
-
+Presentación realizada con  <a href="https://revealjs.com/#/">Reveal.js</a>, <a href="https://pandoc.org/">Pandoc</a>, <a href="https://www.mathjax.org/">MathJax</a> y <a href="https://www.markdownguide.org/">Markdown</a>. 
 
 La fuente de las imágenes es propia, salvo las que se ha citado la fuente en su diapositiva y las de dominio público obtenidas en [Unsplash](https://unsplash.com).
 
