@@ -40,7 +40,7 @@ widescreen: true
 
 ¿Sabemos contar?
 
-![](assets/images/puntitos.jpg){ width=80% }
+![](assets/images/puntitos.jpg){ width=70% }
 
 Para saber más de esta actividad: [https://twitter.com/pbeltranp/status/1193117005500555264](https://twitter.com/pbeltranp/status/1193117005500555264)
 
@@ -84,6 +84,8 @@ $121$
 
 
 ## Unas preguntas sobre el cero... 
+
+:question: :question: :question:
 
 > ¿Se puede comenzar la lectura y escritura de los números sin haber hablado del cero? 
 
@@ -141,13 +143,19 @@ Veintiocho
 
 ## ¿Cómo podemos trabajar estas situaciones?
 
-Diversos materiales:
+> Diversos materiales manipulables
 
-- Policubos.
+Policubos
 
-- Ábaco horizontal.
+Ábaco horizontal
 
-- Plaquetas de Herbinière-Lebert.
+Plaquetas de Herbinière-Lebert
+
+
+## Policubos
+
+
+
 
 ## El ábaco horizontal
 
@@ -176,13 +184,14 @@ Diversos materiales:
 
 ## El ábaco horizontal
 
-El ábaco horizontal cuando se emplea de manera aditiva es un material didáctico estructurado muy valioso para: 
-trabajar las situaciones de cardinalidad con recuento, y 
-articular las situaciones de agrupamiento decimal con las de escritura de números de 2 cifras.
+El ábaco horizontal, empleado de manera aditiva, es un material didáctico estructurado muy valioso para: 
+
+- Trabajar las situaciones de cardinalidad con recuento.
+- Articular las situaciones de agrupamiento decimal con las de escritura de números de dos cifras.
 
 ## Plaquetas de Herbinière-Lebert
 
-![](assets/images/herbiniere.png){ width=35% }
+![](assets/images/herbiniere.png){ width=45% }
 
 Numicon (no deja de ser una _versión comercial_ de las plaquetas) :point_down:
 
