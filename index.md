@@ -371,25 +371,29 @@ Cuando el alumnado sepa escribir razonablemente bien números sin ceros, se plan
 # Enseñanza de los algoritmos de las operaciones {data-background-image="assets/art/kidwriting.jpg" data-background-opacity="0.18"}
 
 
-## Problemática con los algoritmos
-
-## Sobre los algoritmos
+## Sobre los algoritmos {data-background-image="assets/art/kidwriting.jpg" data-background-opacity="0.18"}
 
 - ¿Es más fácil el algoritmo escrito de la suma que el cálculo oral?
-- Están basados en reglas que son poco intuitivas para el alumnado, basadas en propiedades del sistema de numeración decimal.
+- Están basados en reglas que son poco intuitivas para el alumnado, basadas en propiedades del SND.
 - Son reglas difíciles de justificar.
 - Necesitan realizar un esfuerzo importante de memorización.
 - Han perdido su utilidad, porque hay otras formas de calcular.
 
-> Repensemos el papel que han de jugar en el aprendizaje
+> Repensemos el papel que han de jugar en el aprendizaje.
 
-## Problemática con los algoritmos
+
+
+## Problemática con los algoritmos {data-background-image="assets/art/kidwriting.jpg" data-background-opacity="0.18"}
 
 - Los alumnos deberían comprender y saber justificar las reglas del algoritmo.
 - Así facilitamos la memorización de las reglas y se minimizan los errores. 
 - Es importante que el alumnado sepa utilizar otras técnicas de cálculo:
 	- Cálculo mental.
 	- Calculadora. 
+
+:star: Recomendación :star:
+
+> En 1º EP, solo cálculo oral y escrito en horizontal. 
 
 # Actividades abiertas {data-background-image="assets/art/belinda-fewings-unsplash.jpg" data-background-opacity="0.25"}
 
