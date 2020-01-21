@@ -42,15 +42,123 @@ Desarrollado aquí :point_down:
 
 ## Un problema
 
+> Si tienes 7 fichas rojas y 9 azules, ¿cuántas fichas tienes en total?
+
+. . .
+
+¿Hace falta saber sumar para resolverlo?
 
 
-## Una operación
+## Doble vía {data-background-image="assets/images/toby-christopher-LiMP8mmZbLQ-unsplash.jpg" data-background-opacity="0.18"}
+
+:::::::::::::: {.columns}
+
+::: {.column width="45%"}
+
+> Situaciones didácticas aditivo-concretas
+
+$\downarrow$
+
+Resolución de problemas aritméticos.
 
 
-## Otra operación
+:::
+
+::: {.column width="45%"}
+
+> Situaciones didácticas aditivo-formales 
+
+$\downarrow$
+
+Memorización de tablas y otros hechos aritméticos, adquirir técnicas de cálculo oral y, **después**, escritas.
+
+:::
+:::::::::::::
 
 
-## Entonces, ¿qué hacemos?
+## Tipos de situaciones aditivas
+
+> Son problemas o situaciones que se pueden resolver con una suma o con una resta.
+
+![](assets/images/recuentosuma.jpg){ width=80% }
+
+## Tipos de situaciones aditivas
+
+## Tipos de problemas
+
+Un  problema aditivo de una etapa consta de tres cantidades: 
+
+- Dos datos numéricos.
+- Una incógnita (la solución del problema), que se obtiene sumando o restando los dos datos.
+
+. . .
+
+Tanto los datos como la incógnita pueden tener significado de: 
+
+- **Transformación**, cuando mide la transformación (aumento o disminución) que sufre una cantidad inicial.
+- **Comparación**, cuando expresa la comparación (mayor que o menor que) entre dos cantidades. 
+- **Estado**, cuando es una cantidad que no transforma ni compara otras cantidades.
+
+## ¿Dónde está la dificultad?
+
+En una floristería hay 315 rosas y 205 claveles, ¿cuántas flores hay?
+
+. . .
+
+Sara tiene 47 caramelos más que Laura y Laura tiene 83 caramelos menos que Alberto. ¿Cuántos caramelos tiene de más o de menos Sara que Alberto?
+
+
+## ¿Dónde está la dificultad?
+
+- Estructura semántica.
+- Tamaño de los datos.
+- Grado de contextualización.
+
+
+## Gradación de situaciones aditivas
+
+![](assets/images/gradacionaditivos.jpg){ width=80% }
+
+# Aprendizaje de los hechos numéricos (tablas) {data-background-image="assets/art/kidwriting.jpg" data-background-opacity="0.18"}
+
+## Cálculo oral
+
+![](assets/images/tablasuma.jpg){ width=60% }
+
+## Juegos tipo dominó 
+
+![](assets/images/dominosuma.jpg){ width=90% }
+
+Fuente: Rafael Escolano. _Refuerzo de aritmética en el CEIP Recarte y Ornat._
+
+
+## Coloreables
+
+Casi más recomendables como refuerzo para casa.
+
+![](assets/images/yoda.jpg){ width=85% }
+
+[https://www.coloringsquared.com/](https://www.coloringsquared.com/)
+
+
+## Hojas de cálculo mental
+
+
+:::::::::::::: {.columns}
+
+::: {.column width="45%"}
+![](assets/images/hoja1.jpg){ width=100% }
+:::
+
+::: {.column width="45%"}
+![](assets/images/hoja2.jpg){ width=100% }
+
+:::
+:::::::::::::
+
+Son con tiempo, pero es fundamental crear un clima tranquilo y de confianza, centrado en la mejora de cada uno. 
+
+[http://docentes.educacion.navarra.es/jjimenei/index.html](http://docentes.educacion.navarra.es/jjimenei/index.html)
 
 
 
@@ -62,7 +170,7 @@ Desarrollado aquí :point_down:
 
 ![](assets/images/puntitos.jpg){ width=70% }
 
-Para saber más de esta actividad: [https://twitter.com/pbeltranp/status/1193117005500555264](https://twitter.com/pbeltranp/status/1193117005500555264)
+Para saber más de esta actividad (ESO): [https://twitter.com/pbeltranp/status/1193117005500555264](https://twitter.com/pbeltranp/status/1193117005500555264)
 
 ## Ideas fundamentales de nuestro SND
 
@@ -77,55 +185,19 @@ Para saber más de esta actividad: [https://twitter.com/pbeltranp/status/1193117
 $121$
 
 
-## Unas preguntas sobre el cero... 
+## Situaciones de lectura y de escritura
 
-:question: :question: :question:
+> Conocimientos previos
 
-> ¿Un alumno puede contar objetos de 10 en 10 sin conocer el cero?
-
-. . .
-
-:::::::::::::: {.columns}
-
-::: {.column width="45%"}
-
-![](assets/images/coliseo.jpg){ width=90% }
-
-:::
-
-::: {.column width="45%"}
-
-![](assets/images/piramides.jpg){ width=90% }
-
-:::
-:::::::::::::
-
-¿Las personas que construyeron esto conocían el cero?
-
-
-## Unas preguntas sobre el cero... 
-
-:question: :question: :question:
-
-> ¿Se puede comenzar la lectura y escritura de los números sin haber hablado del cero? 
-
-. . .
-
-Sí. Es más sencillo justificar la escritura del 27 que la del 20. 
-
-## Unas preguntas sobre el cero... 
-
-:question: :question: :question:
-
-> ¿En qué momento se debería introducir la escritura de las decenas completas: diez, veinte, treinta, ...? 
-
-. . .
-
-Cuando el alumnado sepa escribir razonablemente bien números sin ceros, se plantea veinte, treinta, etc. Por último, se plantea la escritura y lectura del 10, el más difícil de entender.
+- Contar de uno en uno, de diez en diez.
+- Interpretar como cardinales las palabras numéricas correspondientes a los números de dos cifras. 
+- Realizar tareas de agrupamiento en una colección de elementos según un número dado.
+- Manejar el ábaco y las plaquetas para representar números de dos cifras.
+- Sumar oralmente de diez en diez y decenas con unidades.
+- Leer y escribir las **cifras**.
 
 
 ## Situaciones de lectura y de escritura
-
 
 :::::::::::::: {.columns}
 
@@ -177,11 +249,28 @@ Plaquetas de Herbinière-Lebert
 ![](assets/images/policubos.jpg){ width=65% }
 
 
-## El ábaco horizontal
+## Lectura y escritura con policubos {data-background-image="assets/images/policubos.jpg" data-background-opacity="0.24"}
+
+>Debéis ir a la caja de los cubos y coger veinticuatro cubos que llevaréis a vuestra mesa. Después tenéis que construir todas las torres de diez cubos que podáis”. 
+
+Una vez realizada la tarea el profesor les da un papel para que dibujen las torres y los cubos que han quedado sueltos y escriban debajo el número de torres y el de cubos. 
+
+![](assets/images/tareapoli1.jpg){ width=65% }
+
+## Lectura y escritura con policubos (variantes) {data-background-image="assets/images/policubos.jpg" data-background-opacity="0.24"}
+
+Supongamos que en la clase hay una caja con cubos sueltos y otra con torres de diez cubos. ¿Qué distintas estrategias pueden aparecer si se pide que cojan treinta y dos cubos? 
+
+> ¿De qué conocimientos matemáticos depende el que cojan directamente las torres ya hechas? 
+
+
+
+## El ábaco horizontal (aditivo) {data-background-image="assets/art/abacus.jpg" data-background-opacity="0.18"}
 
 ![](assets/images/lord.jpg){ width=65% }
 
-## El ábaco horizontal
+
+## El ábaco horizontal (aditivo) {data-background-image="assets/art/abacus.jpg" data-background-opacity="0.18"}
 
 :::::::::::::: {.columns}
 
@@ -202,12 +291,26 @@ Plaquetas de Herbinière-Lebert
 :::
 :::::::::::::
 
-## El ábaco horizontal
+## El ábaco horizontal (aditivo) {data-background-image="assets/art/abacus.jpg" data-background-opacity="0.18"}
 
 El ábaco horizontal, empleado de manera aditiva, es un material didáctico estructurado muy valioso para: 
 
-- Trabajar las situaciones de cardinalidad con recuento.
+- Trabajar las situaciones de cardinalidad con recuento. Es decir, reforzar la técnica de conteo de los alumnos de 1º.
+- Asociar recitado con cantidad.
+- Comprender el SND hasta el 100.
 - Articular las situaciones de agrupamiento decimal con las de escritura de números de dos cifras.
+- Aprender, desde la comprensión, la tabla de la suma (hechos numéricos).
+
+
+
+## Vídeos sobre el uso del ábaco {data-background-image="assets/art/abacus.jpg" data-background-opacity="0.18"}
+
+
+[Niño empleando el ábaco horizontal](https://www.youtube.com/watch?v=I3DEmwqZTn4)
+
+[Niña empleando el ábaco horizontal](https://www.youtube.com/watch?v=t0ekmsC6ZII)
+
+
 
 ## Plaquetas de Herbinière-Lebert
 
@@ -218,42 +321,62 @@ Numicon (no deja de ser una _versión comercial_ de las plaquetas) :point_down:
 ![](assets/images/numicon.jpg){ width=35% }
 
 
+## Unas preguntas sobre el cero... 
 
+:question: :question: :question:
 
-# Enseñanza de las operaciones de suma y resta {data-background-image="assets/art/kidwriting.jpg" data-background-opacity="0.18"}
+> ¿Un alumno puede contar objetos de 10 en 10 sin conocer el cero?
 
-
-## Doble vía
+. . .
 
 :::::::::::::: {.columns}
 
 ::: {.column width="45%"}
 
-> Situaciones didácticas aditivo-concretas
-
-$\downarrow$
-
-Resolución de problemas aritméticos.
-
+![](assets/images/coliseo.jpg){ width=90% }
 
 :::
 
 ::: {.column width="45%"}
 
-> Situaciones didácticas aditivo-formales 
-
-$\downarrow$
-
-Memorización de tablas y otros hechos aritméticos, adquirir técnicas de cálculo oral y, **después**, escritas.
-
+![](assets/images/piramides.jpg){ width=90% }
 
 :::
 :::::::::::::
 
+¿Las personas que construyeron esto conocían el cero?
+
+
+## Unas preguntas sobre el cero... 
+
+:question: :question: :question:
+
+> ¿Se puede comenzar la lectura y escritura de los números sin haber hablado del cero? 
+
+. . .
+
+Sí. Es más sencillo justificar la escritura del 27 que la del 20. 
+
+## Unas preguntas sobre el cero... 
+
+:question: :question: :question:
+
+> ¿En qué momento se debería introducir la escritura de las decenas completas: diez, veinte, treinta, ...? 
+
+. . .
+
+Cuando el alumnado sepa escribir razonablemente bien números sin ceros, se plantea veinte, treinta, etc. Por último, se plantea la escritura y lectura del 10, el más difícil de entender.
+
+
+
+# Enseñanza de los algoritmos de las operaciones {data-background-image="assets/art/kidwriting.jpg" data-background-opacity="0.18"}
 
 
 ## Problemática con los algoritmos
 
+## Sobre los algoritmos
+
+- ¿Es más fácil el algoritmo escrito de la suma que el cálculo oral?
 - Están basados en reglas que son poco intuitivas para el alumnado, basadas en propiedades del sistema de numeración decimal.
 - Son reglas difíciles de justificar.
 - Necesitan realizar un esfuerzo importante de memorización.
@@ -269,9 +392,17 @@ Memorización de tablas y otros hechos aritméticos, adquirir técnicas de cálc
 	- Cálculo mental.
 	- Calculadora. 
 
+# Actividades abiertas {data-background-image="assets/art/belinda-fewings-unsplash.jpg" data-background-opacity="0.25"}
 
+## 
 
+![](assets/images/number24.jpg){ width=64% }
+	
+[http://wodb.ca/](http://wodb.ca/)
+	
 # Temas que nos dejamos en el tintero {data-background-image="assets/art/class.jpg" data-background-opacity="0.18"}
+
+
 
 ## Las matemáticas en primaria no son solo aritmética
 
@@ -314,7 +445,7 @@ Para indagar un poquito sobre esto: [Gaulin \(2001\)](http://www.hezkuntza.ejgv.
 
 :::incremental
 - Autores como Anderson (2014) atribuyen el bajo desempeño en RP de los estudiantes al tratamiento _tradicional_ de la RP en el aula, independiente y aislado del desarrollo de ideas, procesos y conceptos matemáticos básicos. 
-- La RP a menudo toma la forma de problemas de aplicación al final de cada lección, presumiblemente para promover la capacidad de **aplicar** lo aprendido. Así rara vez se cumple el propósito de enseñar a resolver problemas o desarrollar o profundizar el conocimiento de ese contenido (Anderson, 2014). 
+- La RP a menudo toma la forma de problemas de aplicación al final de cada lección, presumiblemente para promover la capacidad de **aplicar** lo aprendido. Así no se cumple el propósito de enseñar a resolver problemas o desarrollar o profundizar en los contenidos. 
 :::
 
 
@@ -324,13 +455,15 @@ Para indagar un poquito sobre esto: [Gaulin \(2001\)](http://www.hezkuntza.ejgv.
 
 ## Referencias
 
-Básicamente, lo que vienen a contar estas diapositivas es la propuesta que se trabaja en las asignaturas de Didáctica de la Matemática en la Facultad de Educación de la Universidad de Zaragoza. 
+Básicamente, lo que vienen a contar estas diapositivas es la propuesta que se trabaja en las asignaturas de **Didáctica de la Matemática** en la Facultad de Educación de la Universidad de Zaragoza: 
 
-- Área de Didáctica de la Matemática, Universidad de Zaragoza. Apuntes de _Didáctica de la Aritmética I_, _Didáctica de la Aritmética II_ y _Didáctica de la Geometría_.  
+:books: Área de Didáctica de la Matemática, Universidad de Zaragoza. Apuntes de _Didáctica de la Aritmética I_, _Didáctica de la Aritmética II_ y _Didáctica de la Geometría_.
 
-Merece la pena echar un vistazo a las monografías de la UGR:
+:small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond: :small_blue_diamond:
 
-- Proyecto Edumat-Maestros. _Matemáticas y su Didáctica para Maestros._  Dirección y edición: Juan D. Godino. [Enlace](https://www.ugr.es/~jgodino/edumat-maestros/)
+Merecen la pena las monografías de la UGR:
+
+:books: Proyecto Edumat-Maestros. _Matemáticas y su Didáctica para Maestros._  Dirección y edición: Juan D. Godino. [Enlace](https://www.ugr.es/~jgodino/edumat-maestros/)
 
 
 
