@@ -1,6 +1,6 @@
 ---
 title: Matemáticas con significado 
-subtitle: Uso de recursos manipulables en Primaria
+subtitle: Uso de recursos manipulables en Primaria (aritmética)
 author: <a href="http://tierradenumeros.com">Pablo Beltrán-Pellicer</a>  <br>  <a href="https://twitter.com/pbeltranp">@pbeltranp</a> <br> <img src="assets/logoUZ.jpg" align="center" style="padding-right:0px;" height="40px" >  <img src="assets/attribution-share-alike-creative-commons-license.png" align="center" style="padding-right:0px" height="40px"> <br> 21 de enero de 2020 <br> CPI Parque Venecia, Zaragoza.
 description: Materiales distribuidos bajo licencia CC-BY-SA-4.0 (https://creativecommons.org/licenses/by-sa/4.0/) (https://creativecommons.org/licenses/by-sa/4.0/legalcode.es)
 lang: es-ES
@@ -84,8 +84,6 @@ Memorización de tablas y otros hechos aritméticos, adquirir técnicas de cálc
 
 ## Tipos de situaciones aditivas
 
-## Tipos de problemas
-
 Un  problema aditivo de una etapa consta de tres cantidades: 
 
 - Dos datos numéricos.
@@ -101,11 +99,11 @@ Tanto los datos como la incógnita pueden tener significado de:
 
 ## ¿Dónde está la dificultad?
 
-En una floristería hay 315 rosas y 205 claveles, ¿cuántas flores hay?
+> En una floristería hay 315 rosas y 205 claveles, ¿cuántas flores hay?
 
 . . .
 
-Sara tiene 47 caramelos más que Laura y Laura tiene 83 caramelos menos que Alberto. ¿Cuántos caramelos tiene de más o de menos Sara que Alberto?
+> Sara tiene 47 caramelos más que Laura y Laura tiene 83 caramelos menos que Alberto. ¿Cuántos caramelos tiene de más o de menos Sara que Alberto?
 
 
 ## ¿Dónde está la dificultad?
@@ -118,6 +116,7 @@ Sara tiene 47 caramelos más que Laura y Laura tiene 83 caramelos menos que Albe
 ## Gradación de situaciones aditivas
 
 ![](assets/images/gradacionaditivos.jpg){ width=80% }
+
 
 # Aprendizaje de los hechos numéricos (tablas) {data-background-image="assets/art/kidwriting.jpg" data-background-opacity="0.18"}
 
@@ -412,6 +411,65 @@ Cuando el alumnado sepa escribir razonablemente bien números sin ceros, se plan
 
 ## Los manipulables pueden usarse bien, mal o regular
 
+Los materiales concretos tienen una larga historia en el aula de matemáticas, aunque no siempre se han aceptado o utilizado de manera adecuada. Desaparecieron cuando surgieron métodos computacionales escritos y se le dio poca importancia a la comprensión de los algoritmos. Comenius y Pestalozzi comenzaron el proceso de reintroducción. Montessori y muchos otros en el presente siglo proporcionaron nuevos materiales y nuevos fundamentos para su uso, de modo que hoy en día se encuentran cientos de _manipulables_ disponibles. 
+
+## Los manipulables pueden usarse bien, mal o regular
+
+Sin embargo, los argumentos han persistido en cuanto a si las herramientas comunes de la vida diaria podrían ser mejores que los materiales educativos específicamente elaborados y si, de hecho, todos esos materiales pueden hacer más daño que beneficio. Los materiales educativos concretos no son drogas milagrosas. Su uso productivo requiere planificación y previsión."
+
+Szendrei J. (1996) Concrete Materials in the Classroom. In: Bishop A.J., Clements K., Keitel C., Kilpatrick J., Laborde C. (eds). _International Handbook of Mathematics Education. Kluwer International Handbooks of Education_, vol 4. Springer, Dordrecht.
+
+## Uso de manipulables: regletas de Cuisenaire {data-background-image="assets/images/cuisenaire1.png" data-background-opacity="0.2"}
+
+Se ven experiencias con regletas de Cuisenaire que hacen torcer el morro. Experiencias que ponen el énfasis en la **asociación color-número**. 
+
+> Es decir, blanco=1, rojo=2, y así.
+
+Szendrei (1996), precisamente, pone las **regletas de Cuisenaire** como ejemplo de material manipulativo con gran potencial que, en muchas ocasiones, se utiliza mal o de forma poco adecuada.
+
+![](assets/images/cuisenaire1.png){ width=20% }
+
+## Uso de manipulables: regletas de Cuisenaire {data-background-image="assets/images/cuisenaire1.png" data-background-opacity="0.2"}
+
+Estas regletas son un buen recurso para desarrollar la idea de medida y, a partir de ella, aprender conceptos numéricos y de operaciones. No obstante, aquí lo fundamental es la medida. De hecho, permiten introducir la idea de fracción desde esta rica perspectiva.
+
+No solo eso, sino que también se han mostrado muy útiles para trabajar conceptos de series, funciones y ecuaciones, para formular conjeturas y ayudar a guiar la intuición. Con estas tareas, además, nos acercamos a la idea de prueba en matemáticas.
+
+## Uso de manipulables: regletas de Cuisenaire {data-background-image="assets/images/cuisenaire1.png" data-background-opacity="0.2"}
+
+Todo esto se fundamenta en algo muy básico. Y no es otra cosa que en no hacer una asociación única entre colores y números. Porque el mal uso de estas regletas nace cuando se fuerza a los alumnos a memorizar la convención número-color.
+
+Esta asociación conduce a la realización de tareas triviales de sumas, de manera que las regletas pasan de ser un recurso para el aprendizaje a ser un contenido en sí mismas.
+
+
+## Uso de manipulables: regletas de Cuisenaire {data-background-image="assets/images/cuisenaire1.png" data-background-opacity="0.2"}
+
+:::::::::::::: {.columns}
+
+::: {.column width="45%"}
+
+Otro mal uso se produce cuando en las primeras actividades con regletas , el profesor utiliza la regleta blanca llamándola “unidad”. Posteriormente, se miden el resto de regletas y los niños aprenden que la roja es el dos, la verde claro el tres, etc.
+
+:::
+
+::: {.column width="45%"}
+
+![](assets/images/cuisenaire2.png){ width=100% }
+
+:::
+:::::::::::::
+
+## Uso de manipulables: regletas de Cuisenaire {data-background-image="assets/images/cuisenaire1.png" data-background-opacity="0.2"}
+
+Las actividades que siguen a continuación dan la impresión de que los alumnos suman y restan con facilidad usando las regletas. Esto conlleva dos grandes problemas. Por un lado, los alumnos aprenden una asociación sin significado, color-número.
+
+Por otro lado, se crean la concepción, errónea, de que una longitud es un número. Si bien al comienzo pueden decir que la longitud de la roja es dos veces la de la blanca, muy pronto comienzan a decir que la roja es el dos o la amarilla el cinco.
+
+## Uso de manipulables: regletas de Cuisenaire {data-background-image="assets/images/cuisenaire1.png" data-background-opacity="0.2"}
+
+En particular, este proceso genera obstáculos muy serios de cara al aprendizaje de las fracciones. Los alumnos que han sido forzados a utilizar la blanca como unidad, no comprenderán más adelante que no importa qué regleta sea la unidad.
+
+Ahí es donde pueden escuchase cosas tan extrañas como que “ahora el amarillo va a ser el uno”, en lugar de decir que “la longitud de la regleta amarilla (o la que mide 5 cm) será la unidad de medida”.
 
 
 
